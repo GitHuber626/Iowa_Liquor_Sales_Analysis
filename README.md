@@ -1,4 +1,4 @@
-# Iowa_Liquor_Sales_Analysis
+# Iowa Liquor Sales Analysis
 
 Using Google Big Query, dataset provided by Iowa state containing the spirits purchase informaiton of Iowa Class "E" liquor licenses by product and 
 data of purchase from January 01, 2012 to the current date was used to produce actionable insights for business investors.The dataset can be used to 
