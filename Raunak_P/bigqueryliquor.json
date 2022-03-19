@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iowaliquorsales-344619",
+  "private_key_id": "d079909648beaa2c8cd8b56c3ad25cfc98cb77b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDF1quPP3ZRCmTo\n4lmGWlSh5bEV0Yofl3jvJaJoUbju9mL/Upox1O7dJ5lZInvwQS9RkhCnxRAMIEkb\nwPJrLeyrlas/MlqGJQDC51tuqctIkA8J13h3CjSnY2RMA7A6KIrHj26kL5WGjeP6\nZ1mZH9jOWIzEJChYZgroQ41j7ZfDIoe11IzmgUVIH7LckaCj1r/eJwE2F0PGz6GI\nttAWk+tjPhHH1cAlRYfSltpgLWDjwCGXDr3KZ0Jfzx4B30vGHfjW0DBXMkft/lQv\nQZ9AcpLvTW/xP4AlCXPaXtYyc38pd1ur4M/IuC52hPEpSug8hW4e+8j2a6tp8Nz1\nze1DGhZlAgMBAAECggEAAVwSEVd2Mbo+xjMOUxKOF7pFpwdUg81mlANRgqJ09PAL\nLC3lyydC1juMCGtiqA1bA7rbeGX9DO+FrUt2V220lcMcBEzcjbEH72FDVcTdfUpX\n+aOBxLNJ5fgglyr1Uk8Y4LCPi4F3KnE2AjOrTFOPcWMHgKJA+00FwYx1fi7qSdUX\nBKZ84hPlWKkjseDgRl/rvVFCC4FPCoerXXrsQDBMaRT6/Hh63Z3TC2wQ9xHQTgYx\noEJRruzko7ZA14IN5989WBX9yjErqX8sl+qgtJXP5cVfb/DsbbBPm1668M3PR/9w\nDHWusetJIeLhuDh6NzNEPlAMaodV6V/BmW61tzpBtwKBgQD92f0fGb6xLjw8W5EQ\n1gSohSYRTG4FB4uQBPDPfNGjWsb7UxY6AydKxcX7sLkxXwDNKHrCt2lXUhneynmv\nKiQcIJfSwEKOjjWDP6BqJwabuv8l4zVDl8E1jbFakJqlZaeEIyv/5rXuH7wCIfhh\nQJTlK/maH095MyRmzeeib5wSZwKBgQDHg1HvlS9Gy/KbZdCpx56g8ve+1B5tKV19\nDlyPEI/9w+3vRAyeXq15CULrtTkGIfVuBa0JIZPPq84TfgQW2jLLKgheIolIUh1Y\nSzBQrg5bBACgwctJ1NfHt4tFd9Id9TQ3IkfP6AdBm6whPqr1tAlRhymAQ43kYEMz\nLtsLIsGJUwKBgQDsTxEi8oRhy/im91aDpbeQaOKXF98TL4Lr/q1teXRt7QNu0lnO\nh0D8ij9TnZ/IJfhJA3XD7ZlSgEs06qd8OG6FAJJUzkUnD5shIwnhx5KPRfRfALOE\nyLBDejOvaw2LCqZ2i4daIRsbIM+T7KubXNM+w0EICD2jRciNKwCGZf+T4QKBgCFC\nPe1vdCMcKoRHM8KpuULhXfVczPmrlJ8dPsbGnwpRmB9zu5rG86oipho+6pOgI5bE\nsXS9OTO8Uy0iq7HXi/IcPqranQIGVkf6uMIqUdBQWX5y792N8q6jZT8eW1ONJbgv\nKcN5zYPdXJNqK/urmIYTvxJXsJaqiWlF3VP85kBrAoGBAOZAW8GX6TgmUWz4iBUs\nUQ917SOdvKB4uLzqFmSMf6CfqQZFRA+DNa/xL81348JjequoFnZMYVxa+htVd9rF\nA+ltpClOAROnh3GD5GFWhjNUp5sdbuiWCWzL3B5m7TgVNIpqgVwdttTrE37ibyBL\n5kEtAdkqqTPF2x+VhdtUAjgf\n-----END PRIVATE KEY-----\n",
+  "client_email": "raunakliquorsales@iowaliquorsales-344619.iam.gserviceaccount.com",
+  "client_id": "115528586597944410215",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raunakliquorsales%40iowaliquorsales-344619.iam.gserviceaccount.com"
+}
