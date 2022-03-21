@@ -2,8 +2,10 @@ from dataclasses import dataclass
 from google.cloud import bigquery
 import os
 import pandas as pd
+import pyarrow
 
 
+pd.set_option("display.max_columns",10)
 path = '/Users/tiko/Downloads/BQ_cred.json'
 
 
@@ -23,7 +25,7 @@ LIMIT 20
 """)
 
 results = qr.result()
-df = pd.DataFrame(results)
+df = results.to_dataframe()
 print(df)
 # name_group_query = """
 # SELECT * FROM `bigquery-public-data.iowa_liquor_sales.sales` 
